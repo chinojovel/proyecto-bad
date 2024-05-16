@@ -8,6 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using SistemaPlanilla.DAL.Repositorios.Contrato;
+using SistemaPlanilla.DAL.Repositorios;
+
 namespace SistemaPlanilla.IOC
 {
     public static class Dependencia
@@ -18,6 +21,8 @@ namespace SistemaPlanilla.IOC
             {
                 options.UseSqlServer(configuration.GetConnectionString("cadenaRemotaSQL"));
             });
+
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         }
     }
 }

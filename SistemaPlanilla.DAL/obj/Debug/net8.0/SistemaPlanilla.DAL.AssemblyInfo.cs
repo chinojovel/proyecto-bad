@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPlanilla.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea11ca4b42c065b1fadf658bc5ce8baeedbe758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86f762c564495dc7f19d476be3caab8ce5c4690")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPlanilla.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPlanilla.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
