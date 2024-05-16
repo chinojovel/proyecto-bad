@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\bin\Debug\net8.0\SistemaPlanilla.DAL.deps.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\bin\Debug\net8.0\SistemaPlanilla.DAL.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\bin\Debug\net8.0\SistemaPlanilla.DAL.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.AssemblyInfo.cs
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.sourcelink.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\refint\SistemaPlanilla.DAL.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\ref\SistemaPlanilla.DAL.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\bin\Debug\net8.0\SistemaPlanilla.Model.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\bin\Debug\net8.0\SistemaPlanilla.Model.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaPlanilla.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DAL\obj\Debug\net8.0\SistemaP.3255548A.Up2Date

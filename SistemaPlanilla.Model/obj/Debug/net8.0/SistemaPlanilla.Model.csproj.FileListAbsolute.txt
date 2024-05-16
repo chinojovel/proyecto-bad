@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\bin\Debug\net8.0\SistemaPlanilla.Model.deps.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\bin\Debug\net8.0\SistemaPlanilla.Model.runtimeconfig.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\bin\Debug\net8.0\SistemaPlanilla.Model.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\bin\Debug\net8.0\SistemaPlanilla.Model.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.AssemblyInfo.cs
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.sourcelink.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\refint\SistemaPlanilla.Model.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\SistemaPlanilla.Model.genruntimeconfig.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.Model\obj\Debug\net8.0\ref\SistemaPlanilla.Model.dll

@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\bin\Debug\net8.0\SistemaPlanilla.DTO.deps.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\bin\Debug\net8.0\SistemaPlanilla.DTO.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\bin\Debug\net8.0\SistemaPlanilla.DTO.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.AssemblyInfo.cs
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.sourcelink.json
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\refint\SistemaPlanilla.DTO.dll
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\SistemaPlanilla.DTO.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.DTO\obj\Debug\net8.0\ref\SistemaPlanilla.DTO.dll

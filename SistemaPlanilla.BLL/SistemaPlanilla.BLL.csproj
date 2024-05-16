@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaPlanilla.DAL\SistemaPlanilla.DAL.csproj" />
+    <ProjectReference Include="..\SistemaPlanilla.DTO\SistemaPlanilla.DTO.csproj" />
+    <ProjectReference Include="..\SistemaPlanilla.Model\SistemaPlanilla.Model.csproj" />
+    <ProjectReference Include="..\SistemaPlanilla.Utility\SistemaPlanilla.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
