@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPlanilla.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86f762c564495dc7f19d476be3caab8ce5c4690")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae69e841b43dc3a806f3c116ea2abfb047ec5e42")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPlanilla.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPlanilla.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

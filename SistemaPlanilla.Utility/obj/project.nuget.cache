@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SwA9jgs0f4BIpA/y6RC8N9pd+VhnIRGt/SdbnkMZFA3a0irYSrZCKdX/SeRaA8BWCkh/Pl8SxUUrAyCQ3wB46g==",
+  "dgSpecHash": "DaTxooe48uW8u+ZY49+IcYyNE0BqmvDZE+kcSavLuZQKAhxq2XrhS9smR20YBlllzJN7/qckShCdoZzm5aHR3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\SistemaPlanillas\\Backend\\SistemaPlanillas\\SistemaPlanilla.Utility\\SistemaPlanilla.Utility.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
