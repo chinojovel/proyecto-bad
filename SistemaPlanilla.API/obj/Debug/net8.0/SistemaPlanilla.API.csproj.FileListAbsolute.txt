@@ -81,3 +81,4 @@ C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanil
 C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.API\bin\Debug\net8.0\SistemaPlanilla.DAL.pdb
 C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.API\bin\Debug\net8.0\SistemaPlanilla.Model.pdb
 C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.API\bin\Debug\net8.0\SistemaPlanilla.Utility.pdb
+C:\Users\PC\source\repos\SistemaPlanillas\Backend\SistemaPlanillas\SistemaPlanilla.API\bin\Debug\net8.0\AutoMapper.dll

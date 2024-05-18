@@ -11,6 +11,8 @@ using System.Threading.Tasks;
 using SistemaPlanilla.DAL.Repositorios.Contrato;
 using SistemaPlanilla.DAL.Repositorios;
 
+using SistemaPlanilla.Utility;
+
 namespace SistemaPlanilla.IOC
 {
     public static class Dependencia
@@ -23,6 +25,8 @@ namespace SistemaPlanilla.IOC
             });
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }
     }
 }
