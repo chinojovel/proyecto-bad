@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPlanilla.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea11ca4b42c065b1fadf658bc5ce8baeedbe758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb0fd379b31a50a1b1117c289b9968eb51955997")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPlanilla.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPlanilla.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
