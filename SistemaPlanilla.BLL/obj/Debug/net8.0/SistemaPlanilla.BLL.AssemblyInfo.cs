@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPlanilla.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f3a93574f11d1e0328f38c821b7ce57deefe1ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6338f84b3c337a3cd5b0edaf7b1ac501c1feab3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPlanilla.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPlanilla.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
