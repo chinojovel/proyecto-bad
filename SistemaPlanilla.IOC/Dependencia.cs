@@ -13,6 +13,9 @@ using SistemaPlanilla.DAL.Repositorios;
 
 using SistemaPlanilla.Utility;
 
+using SistemaPlanilla.BLL.Servicios.Contrato;
+using SistemaPlanilla.BLL.Servicios;
+
 namespace SistemaPlanilla.IOC
 {
     public static class Dependencia
@@ -27,6 +30,24 @@ namespace SistemaPlanilla.IOC
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
             services.AddAutoMapper(typeof(AutoMapperProfile));
+
+            services.AddScoped<IAreaService, AreaService>();
+            services.AddScoped<ICentroCostoService, CentroCostoService>();
+            services.AddScoped<IDepartamentoService, DepartamentoService>();
+            services.AddScoped<IDptoUnidadService, DptoUnidadService>();
+            services.AddScoped<IEmpleadoService, EmpleadoService>();
+            services.AddScoped<IEmpresaService, EmpresaService>();
+            services.AddScoped<IEstadoCivilService, EstadoCivilService>();
+            services.AddScoped<IMunicipioService, MunicipioService>();
+            services.AddScoped<IPaisService, PaisService>();
+            services.AddScoped<IPermisoService, PermisoService>();
+            services.AddScoped<IPlanillaService, PlanillaService>();
+            services.AddScoped<IProfesionOficioService, ProfesionOficioService>();
+            services.AddScoped<IPuestoService, PuestoService>();
+            services.AddScoped<IRolService, RolService>();
+            services.AddScoped<ISexoService, SexoService>();
+            services.AddScoped<ISubUnidadService, SubUnidadService>();
+            services.AddScoped<IUsuarioService, UsuarioService>();
         }
     }
 }
