@@ -22,6 +22,28 @@ namespace SistemaPlanilla.Utility
             CreateMap<Rol, RolDTO>().ReverseMap();
             #endregion Rol
 
+            #region PermisoRol
+            CreateMap<PermisoRol, PermisoRolDTO>()
+                .ForMember(
+                    destino => destino.NombreRol,
+                    opt => opt.MapFrom(origen => origen.CodRolNavigation.Nombre)
+                )
+                .ForMember(
+                    destino => destino.NombrePermiso,
+                    opt => opt.MapFrom(origen => origen.CodPermisoNavigation.Nombre)
+                );
+
+            CreateMap<PermisoRolDTO, PermisoRol>()
+                .ForMember(
+                    destino => destino.CodRolNavigation,
+                    opt => opt.Ignore()
+                )
+                .ForMember(
+                    destino => destino.CodPermisoNavigation,
+                    opt => opt.Ignore()
+                );
+            #endregion PermisoRol
+
             #region EstadoCivil
             CreateMap<EstadoCivil, EstadoCivilDTO>().ReverseMap();
             #endregion EstadoCivil

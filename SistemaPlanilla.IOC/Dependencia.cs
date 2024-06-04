@@ -24,7 +24,7 @@ namespace SistemaPlanilla.IOC
         {
             services.AddDbContext<Gp09planillasContext> (options =>
             {
-                options.UseSqlServer(configuration.GetConnectionString("cadenaRemotaSQL"));
+                options.UseSqlServer(configuration.GetConnectionString("cadenaLocalSQL"));
             });
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
@@ -45,6 +45,7 @@ namespace SistemaPlanilla.IOC
             services.AddScoped<IProfesionOficioService, ProfesionOficioService>();
             services.AddScoped<IPuestoService, PuestoService>();
             services.AddScoped<IRolService, RolService>();
+            services.AddScoped<IPermisoRolService, PermisoRolService>();
             services.AddScoped<ISexoService, SexoService>();
             services.AddScoped<ISubUnidadService, SubUnidadService>();
             services.AddScoped<IUsuarioService, UsuarioService>();
