@@ -10,6 +10,7 @@ namespace SistemaPlanilla.BLL.Servicios.Contrato
 {
     public interface IRolService
     {
+
         Task<List<RolDTO>> Listar();
 
         Task<RolDTO> Crear(RolDTO modelo);

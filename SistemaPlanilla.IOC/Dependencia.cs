@@ -28,6 +28,7 @@ namespace SistemaPlanilla.IOC
             });
 
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IRolRepository, RolRepository>();
 
             services.AddAutoMapper(typeof(AutoMapperProfile));
 

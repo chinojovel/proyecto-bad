@@ -18,10 +18,15 @@ namespace SistemaPlanilla.BLL.Servicios
         private readonly IGenericRepository<Rol> _rolRepositorio;
         private readonly IMapper _mapper;
 
-        public RolService(IGenericRepository<Rol> rolRepositorio, IMapper mapper)
+        private readonly IGenericRepository<PermisoRol> _permisoRolRepositorio;
+        private readonly IRolRepository _rolPermisoRepositorio;
+
+        public RolService(IGenericRepository<Rol> rolRepositorio, IMapper mapper, IGenericRepository<PermisoRol> permisoRolRepositorio, IRolRepository rolPermisoRepositorio)
         {
             _rolRepositorio = rolRepositorio;
             _mapper = mapper;
+            _permisoRolRepositorio = permisoRolRepositorio;
+            _rolPermisoRepositorio = rolPermisoRepositorio;
         }
 
         public async Task<List<RolDTO>> Listar()

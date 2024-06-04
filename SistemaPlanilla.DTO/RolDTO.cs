@@ -12,6 +12,6 @@ namespace SistemaPlanilla.DTO
 
         public string Nombre { get; set; } = null!;
 
-        public virtual ICollection<PermisoDTO>? Permisos { get; set; }
+        public virtual ICollection<PermisoRolDTO>? PermisoRols { get; set; }
     }
 }
