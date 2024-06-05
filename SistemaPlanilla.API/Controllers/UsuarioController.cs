@@ -102,5 +102,25 @@ namespace SistemaPlanilla.API.Controllers
 
             return Ok(rsp);
         }
+
+        [HttpPost]
+        [Route("IniciarSesion")]
+        public async Task<IActionResult> IniciarSesion([FromBody] LoginDTO login)
+        {
+            var rsp = new Response<SesionDTO>();
+
+            try
+            {
+                rsp.status = true;
+                rsp.value = await _usuarioServicio.ValidarCredenciales(login.Correo, login.Contrasena);
+            }
+            catch (Exception ex)
+            {
+                rsp.status = false;
+                rsp.msg = ex.Message;
+            }
+
+            return Ok(rsp);
+        }
     }
 }
