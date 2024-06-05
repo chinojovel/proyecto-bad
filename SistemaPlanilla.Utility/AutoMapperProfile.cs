@@ -109,7 +109,7 @@ namespace SistemaPlanilla.Utility
                     opt => opt.MapFrom(origen => origen.CodEmpresaNavigation.Nombre)
                 );
 
-            CreateMap<DepartamentoDTO, DptoUnidad>()
+            CreateMap<DptoUnidadDTO, DptoUnidad>()
                 .ForMember(
                     destino => destino.CodEmpresaNavigation,
                     opt => opt.Ignore()

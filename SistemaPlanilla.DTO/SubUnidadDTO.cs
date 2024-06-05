@@ -21,7 +21,5 @@ namespace SistemaPlanilla.DTO
         public string? NombreUnidadPadre {  get; set; }
 
         public virtual ICollection<SubUnidadDTO>? SubUnidades { get; set; }
-
-        public virtual ICollection<PuestoDTO>? Puestos { get; set; }
     }
 }

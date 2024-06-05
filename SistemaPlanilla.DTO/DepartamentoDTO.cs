@@ -15,7 +15,5 @@ namespace SistemaPlanilla.DTO
         public int CodPais { get; set; }
 
         public string? NombrePais { get; set; }
-
-        public virtual ICollection<MunicipioDTO>? Municipios { get; set; }
     }
 }

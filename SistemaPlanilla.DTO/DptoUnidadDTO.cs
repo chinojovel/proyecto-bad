@@ -15,9 +15,5 @@ namespace SistemaPlanilla.DTO
         public int CodEmpresa { get; set; }
 
         public string? NombreEmpresa { get; set; }
-
-        public virtual ICollection<AreaDTO>? Areas { get; set; }
-
-        public virtual ICollection<CentroCostoDTO>? CentrosCostos { get; set; }
     }
 }

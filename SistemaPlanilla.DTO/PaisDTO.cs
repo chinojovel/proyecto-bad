@@ -11,7 +11,5 @@ namespace SistemaPlanilla.DTO
         public int Codigo { get; set; }
 
         public string Nombre { get; set; } = null!;
-
-        public virtual ICollection<DepartamentoDTO>? Departamentos { get; set; }
     }
 }

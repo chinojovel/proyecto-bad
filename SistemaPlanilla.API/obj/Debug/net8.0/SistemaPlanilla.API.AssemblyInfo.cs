@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPlanilla.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fc2621d7dd227c37515da4191360c27a82e76fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+400b7c4e6d74269354f38953943c4605045899c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPlanilla.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPlanilla.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,13 +29,5 @@ namespace SistemaPlanilla.DTO
         public string Email { get; set; } = null!;
 
         public bool PlanillaMensual { get; set; }
-
-        public virtual ICollection<DptoUnidadDTO>? DptosUnidades { get; set; }
-
-        public virtual ICollection<EmpleadoDTO>? Empleados { get; set; }
-
-        public virtual ICollection<PlanillaDTO>? Planillas { get; set; }
-
-        public virtual ICollection<PuestoDTO>? Puestos { get; set; }
     }
 }

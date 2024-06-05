@@ -68,8 +68,6 @@ namespace SistemaPlanilla.DTO
 
         public virtual ICollection<EmpleadoDTO>? Empleados { get; set; }
 
-        public virtual ICollection<PlanillaDTO>? Planillas { get; set; }
-
         public virtual ICollection<UsuarioDTO>? Usuarios { get; set; }
     }
 }
